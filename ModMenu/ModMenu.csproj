@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <OutputType>Library</OutputType>
+    <AssemblyName>ModMenu</AssemblyName>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <OutputPath>..\Build\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- UnityEngine参照 -->
+    <Reference Include="UnityEngine">
+      <HintPath>F:\SteamLibrary\steamapps\common\TerraTech\TerraTechWin64_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>F:\SteamLibrary\steamapps\common\TerraTech\TerraTechWin64_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>F:\SteamLibrary\steamapps\common\TerraTech\TerraTechWin64_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>F:\SteamLibrary\steamapps\common\TerraTech\TerraTechWin64_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>F:\SteamLibrary\steamapps\common\TerraTech\TerraTechWin64_Data\Managed\UnityEngine.PhysicsModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+
+    <!-- TerraTechゲームアセンブリ -->
+    <Reference Include="Assembly-CSharp">
+      <HintPath>F:\SteamLibrary\steamapps\common\TerraTech\TerraTechWin64_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+
+  <!-- ビルド後イベント: ModMenu.dllをTerraTechディレクトリにコピー -->
+  <Target Name="CopyToTerraTech" AfterTargets="Build">
+    <PropertyGroup>
+      <TerraTechPath>F:\SteamLibrary\steamapps\common\TerraTech</TerraTechPath>
+    </PropertyGroup>
+    <Message Text="Copying ModMenu.dll to TerraTech directory..." Importance="high" />
+    <Copy SourceFiles="$(OutputPath)ModMenu.dll"
+          DestinationFiles="$(TerraTechPath)\ModMenu.dll"
+          SkipUnchangedFiles="false"
+          ContinueOnError="true" />
+    <Message Text="ModMenu.dll copied successfully!" Importance="high" Condition="Exists('$(TerraTechPath)\ModMenu.dll')" />
+  </Target>
+
+</Project>

@@ -1,0 +1,1 @@
+パス 'c:\programming\terratechmodmenu\build\bootstrap.dll' へのアクセスが拒否されました。ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。ファイル 'C:\Programming\TerraTechModMenu\Build\Bootstrap.dll' を開くことができません。

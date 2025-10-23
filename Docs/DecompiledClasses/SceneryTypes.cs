@@ -1,0 +1,26 @@
+public enum SceneryTypes
+{
+	ConeTree,
+	ShroomTree,
+	SmokerRock,
+	DesertRock,
+	CelestiteOutcrop,
+	CarbiteSeam,
+	OleiteSeam,
+	PlumbiteSeam,
+	EruditeOutcrop,
+	IgniteOutcrop,
+	MountainRock,
+	ChristmasTree,
+	GrasslandRock,
+	RoditeSeam,
+	TitaniteSeam,
+	LuxiteOutcrop,
+	MountainTree,
+	DesertTree,
+	CrystalSpire,
+	Pillar,
+	WastelandRock,
+	DeadTree,
+	ScrapPile
+}

@@ -1,0 +1,514 @@
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] ERROR: Failed to load ModMenu.dll assembly
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
+[Bootstrap] Starting ModMenu loading process...
+[Bootstrap] Successfully got mono-2.0-bdwgc.dll handle
+[Bootstrap] Successfully got all Mono API functions
+[Bootstrap] Successfully got root domain
+[Bootstrap] Thread attached to Mono domain
+[Bootstrap] ModMenu.dll path: F:\SteamLibrary\steamapps\common\TerraTech\ModMenu.dll
+[Bootstrap] Successfully loaded ModMenu.dll assembly
+[Bootstrap] Successfully got assembly image
+[Bootstrap] Successfully got Loader class
+[Bootstrap] Successfully got Load method
+[Bootstrap] ========================================
+[Bootstrap] ModMenu successfully loaded!
+[Bootstrap] ========================================
