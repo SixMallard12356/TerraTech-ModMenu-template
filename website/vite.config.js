@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // GitHub Pagesのベースパス設定
-  // リポジトリ名が "TerraTech-ModMenu" の場合、これを使用
+  // リポジトリ名が "TerraTech-ModMenu-template" の場合、これを使用
   // カスタムドメインを使う場合は base: '/' に変更
-  base: '/TerraTech-ModMenu/',
+  base: '/TerraTech-ModMenu-template/',
 })
